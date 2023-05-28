@@ -1,0 +1,14 @@
+caption {
+    caption-side: top;
+}
+
+.table-dark {
+  --bs-table-bg: #6610f2;
+}
+
+@media (max-width: 768px) { 
+    section {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+}
